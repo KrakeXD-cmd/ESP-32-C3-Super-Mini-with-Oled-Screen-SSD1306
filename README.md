@@ -46,7 +46,7 @@ A small MicroPython project for the **ESP32 SuperMini C5** with an **SSD1306 OLE
 | VCC | 5V |
 | GND | G |
 
-> **Note:** I2C pins may vary depending on your ESP32 variant. Adjust in `main.py` if needed.
+> **Note:**  You can change the GPIO Pins in `boot.py` if needed.
 
 ---
 
