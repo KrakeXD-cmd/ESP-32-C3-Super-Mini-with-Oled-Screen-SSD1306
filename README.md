@@ -93,7 +93,7 @@ Open the displayed IP address in your browser (on the same WiFi network). You wi
 
 | Effect | Description |
 |---|---|
-| `scrolltext` | Text scrolling from right to left |
+| `Scroll Right` | Text scrolling from right to left |
 | `blink` | Text blinking on the display |
 | `bounce` | Text bouncing back and forth |
 | `invert` | Invert display colors (white ↔ black) |
