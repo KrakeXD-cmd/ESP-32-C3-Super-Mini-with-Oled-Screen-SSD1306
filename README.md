@@ -98,8 +98,6 @@ Open the displayed IP address in your browser (on the same WiFi network). You wi
 | `blink` | Text blinking on the display |
 | `Bounce` | Text bouncing left and right |
 | `invert` | Invert display colors (white ↔ black) |
-| `static` | Clear the display |
-| `custom` | Enter custom text via the webpage |
 
 ---
 
