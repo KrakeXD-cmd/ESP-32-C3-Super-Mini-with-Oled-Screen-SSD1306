@@ -85,7 +85,7 @@ Open the displayed IP address in your browser (on the same WiFi network). You wi
 | `blink` | Text blinking on the display |
 | `bounce` | Text bouncing back and forth |
 | `invert` | Invert display colors (white ↔ black) |
-| `clear` | Clear the display |
+| `static` | Clear the display |
 | `custom` | Enter custom text via the webpage |
 
 ---
