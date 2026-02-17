@@ -139,6 +139,7 @@ That's it! After uploading, the new effect is immediately available on the webpa
 - [MicroPython](https://micropython.org/download/ESP32_GENERIC/) flashed onto the ESP32
 - [Thonny IDE](https://thonny.org/) or `mpremote` to upload the files
 - ESP32 and control device (PC/phone) on the **same WiFi network**
+- [SSD1306 Module](https://de.aliexpress.com/item/1005006141235306.html?spm=a2g0n.productlist.0.0.7676iowziowzI0&browser_id=dc94df19f33449258e8d8bcc6107aacb&aff_trace_key=d9be5f4a88204e37b6174669cdda15f5-1770732239441-03580-UneMJZVf&aff_platform=msite&m_page_id=ufijiggpojcaverd19c6d455bcb14a46a8691878e4&gclid=&pdp_ext_f=%7B%22order%22%3A%2219603%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%211.75%210.99%21%21%2113.90%217.82%21%40210385bb17713597879603518e651a%2112000035944225408%21sea%21DE%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aafc1e24%3Bm03_new_user%3A-29895%3BpisId%3A5000000197696339&algo_pvid=e7621a90-d3f4-4475-8b27-5a958adc1496&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006141235306%7C_p_origin_prod%3A)
 
 ---
 
