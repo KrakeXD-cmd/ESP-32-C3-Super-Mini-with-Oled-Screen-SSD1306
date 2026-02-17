@@ -162,6 +162,7 @@ MIT License – free to use and extend.
 
 ## 💡 Ideas for More Effects
 
+More is comming soon...
 - Clock display (with NTP time sync)
 - Weather widget (via HTTP request)
 - Snake game on the display
