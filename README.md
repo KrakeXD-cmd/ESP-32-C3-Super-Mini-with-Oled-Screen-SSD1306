@@ -93,9 +93,10 @@ Open the displayed IP address in your browser (on the same WiFi network). You wi
 
 | Effect | Description |
 |---|---|
+| `Static` | Shows static text on the display |
 | `Scroll Right` | Text scrolling from right to left |
 | `blink` | Text blinking on the display |
-| `bounce` | Text bouncing back and forth |
+| `Bounce` | Text bouncing left and right |
 | `invert` | Invert display colors (white ↔ black) |
 | `static` | Clear the display |
 | `custom` | Enter custom text via the webpage |
