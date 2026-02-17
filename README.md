@@ -31,7 +31,7 @@ A small MicroPython project for the **ESP32 SuperMini C5** with an **SSD1306 OLE
 |---|---|
 | Microcontroller | ESP32 SuperMini C5 |
 | Display | SSD1306 OLED 128×64 (I2C) |
-| Display connection | SDA → GPIO 21, SCL → GPIO 22 |
+| Display connection | SDA → GPIO 21, SCL → GPIO 22, VCC → 5V, GND → G|
 | Power supply | USB or 3.3V |
 
 > **Note:** I2C pins may vary depending on your ESP32 variant. Adjust in `main.py` if needed.
