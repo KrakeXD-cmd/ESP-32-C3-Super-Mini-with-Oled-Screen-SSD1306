@@ -58,8 +58,12 @@ Open `main.py` and fill in your WiFi details at the very top:
 
 ```python
 # ⚠️ CHANGE THIS ⚠️
-SSID = "YOUR_WIFI"
+# =========================
+# WLAN SETTINGS
+# =========================
+SSID = "YOUR_SSID"
 PASSWORD = "YOUR_PASSWORD"
+
 ```
 
 ### 2. Upload files to the ESP32
