@@ -19,7 +19,6 @@ A small MicroPython project for the **ESP32 SuperMini C5** with an **SSD1306 OLE
 ```
 📦 esp32-oled-webdisplay/
  ┣ 📄 main.py          → Main file: WiFi, webserver, effects & routing
- ┣ 📄 boot.py          → Boot file: WiFi setup & important initializations
  ┗ 📄 ssd1306.py       → Driver for the SSD1306 OLED display (I2C)
 ```
 
@@ -46,7 +45,7 @@ A small MicroPython project for the **ESP32 SuperMini C5** with an **SSD1306 OLE
 | VCC | 5V |
 | GND | G |
 
-> **Note:**  You can change the GPIO Pins in `boot.py` if needed.
+> **Note:**  You can change the GPIO Pins in `main.py` if needed.
 
 ---
 
@@ -73,7 +72,6 @@ Using **Thonny** or **mpremote**:
 ```bash
 # With mpremote:
 mpremote cp ssd1306.py :ssd1306.py
-mpremote cp boot.py :boot.py
 mpremote cp main.py :main.py
 ```
 
@@ -120,7 +118,7 @@ elif name == "my_effect":
 And in the HTML page inside `main.py`, just add a new button:
 
 ```html
-<option value="flyin">Fly In</option>
+<option value="My Effect">My Effect</option>
 ```
 
 That's it! After uploading, the new effect is immediately available on the webpage. 🎉
@@ -128,12 +126,6 @@ That's it! After uploading, the new effect is immediately available on the webpa
 ---
 
 ## 📄 File Overview
-
-### `boot.py`
-- Runs automatically first on startup
-- Establishes the WiFi connection
-- Initializes the I2C bus and the display
-- Sets important global variables
 
 ### `main.py`
 - Contains the complete webserver (simple HTTP socket server)
