@@ -5,7 +5,7 @@ A small MicroPython project for the **ESP32 SuperMini C5** with an **SSD1306 OLE
 
 <div align="center">
   I could look like this with a 3d printed Case.
-    <img src="./docs/images/Oled-Box.png" width="400px"</img>
+    <img src="./images/Oled-Box.png" width="400px"</img>
 </div>
 
 ---
