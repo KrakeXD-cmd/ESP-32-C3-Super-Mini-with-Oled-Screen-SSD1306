@@ -3,6 +3,11 @@
 
 A small MicroPython project for the **ESP32 SuperMini C5** with an **SSD1306 OLED display (128×64)**, controllable via a **smart webpage in your browser**. The display shows various effects – and can easily be extended with your own effects at any time!
 
+<div align="center">
+  I could look like this with a 3d printed Case.
+    <img src="./docs/images/Oled-Box.png" width="400px"</img>
+</div>
+
 ---
 
 ## 📸 Features
