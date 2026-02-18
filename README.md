@@ -97,9 +97,12 @@ Open the displayed IP address in your browser (on the same WiFi network). You wi
 |---|---|
 | `Static` | Shows static text on the display |
 | `Scroll Right` | Text scrolling from right to left |
-| `blink` | Text blinking on the display |
+| `Scroll Left` | Text scrolling from left to right |
 | `Bounce` | Text bouncing left and right |
-| `invert` | Invert display colors (white ↔ black) |
+| `Wave` | Every letter waves up and down |
+| `Pulse` | The letters get bigger and tiny again |
+| `Rain` | A simple Rain Effekt (Not letters!) |
+| `Fly in` | Every letter commes in from the left |
 
 ---
 
@@ -108,7 +111,7 @@ Open the displayed IP address in your browser (on the same WiFi network). You wi
 In `main.py` you will find the function `run_effect(name)`. Simply add a new `elif` block:
 
 ```python
-elif name == "my_effect":
+def "my_effect":
     # Your code here
     oled.fill(0)
     oled.text("My Effect!", 0, 28)
