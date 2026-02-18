@@ -40,8 +40,8 @@ A small MicroPython project for the **ESP32 SuperMini C5** with an **SSD1306 OLE
 
 | SSD1306 | ESP-32 |
 |---|---|
-| SDA | GPIO 5 |
-| SCL | GPIO 6 |
+| SDA | GPIO 6 |
+| SCL | GPIO 5 |
 | VCC | 5V |
 | GND | G |
 
