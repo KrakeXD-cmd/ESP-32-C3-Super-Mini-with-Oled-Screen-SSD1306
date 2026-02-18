@@ -1,4 +1,4 @@
-<a href="https://github.com/i-am-shodan/USBArmyKnife/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/mashape/apistatus.svg"></a>
+<a href="https://github.com/KrakeXD-cmd/ESP-32-C3-Super-Mini-with-Oled-Screen-SSD1306/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/mashape/apistatus.svg"></a>
 # ESP32 SuperMini C5 + SSD1306 OLED – Smart Web Display
 
 A small MicroPython project for the **ESP32 SuperMini C5** with an **SSD1306 OLED display (128×64)**, controllable via a **smart webpage in your browser**. The display shows various effects – and can easily be extended with your own effects at any time!
