@@ -106,7 +106,7 @@ Open the displayed IP address in your browser (on the same WiFi network). You wi
 
 ## ➕ Adding Your Own Effects
 
-In `main.py` you will find the function `run_effect(name)`. Simply add a new `elif` block:
+In `main.py` you will find the function `run_effect(name)`. Simply add a new `def` block:
 
 ```python
 def "my_effect":
@@ -159,7 +159,7 @@ MIT License – free to use and extend.
 
 ## 💡 Ideas for More Effects
 
-More is comming soon...
+More could come soon...
 - Clock display (with NTP time sync)
 - Weather widget (via HTTP request)
 - Snake game on the display
