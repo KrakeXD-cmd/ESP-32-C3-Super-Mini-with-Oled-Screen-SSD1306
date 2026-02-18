@@ -119,7 +119,7 @@ def "my_effect":
 And in the HTML page inside `main.py`, just add a new button:
 
 ```html
-<option value="My Effect">My Effect</option>
+<option value="My Effect!">My Effect!</option>
 ```
 
 That's it! After uploading, the new effect is immediately available on the webpage. 🎉
