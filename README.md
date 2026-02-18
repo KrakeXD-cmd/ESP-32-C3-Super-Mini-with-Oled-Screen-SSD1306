@@ -120,7 +120,7 @@ elif name == "my_effect":
 And in the HTML page inside `main.py`, just add a new button:
 
 ```html
-<button onclick="setEffect('my_effect')">My Effect</button>
+<option value="flyin">Fly In</option>
 ```
 
 That's it! After uploading, the new effect is immediately available on the webpage. 🎉
